@@ -1,0 +1,9 @@
+[package]
+name = "histobench"
+version = "0.1.0"
+authors = ["brian"]
+
+[dependencies]
+rand = "*"
+ordered-float = "*"
+histogram = "*"
